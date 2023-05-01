@@ -8,5 +8,6 @@
 <End of Version>
 
 <Version: 1.03>
+/data/Map006.json https://raw.githubusercontent.com/Mrxdaunknown/UpdaterForProject/main/Map006.json
 /img/pictures/Unbenannt.png https://freeimage.host/i/HSn8r92
 <End of Version>
