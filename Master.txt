@@ -1,13 +1,13 @@
 
 <Version: 1.01>
-/data/Map006.json https://raw.githubusercontent.com/Mrxdaunknown/UpdaterForProject/main/Map006.json
+Game_boxed https://raw.githubusercontent.com/Mrxdaunknown/UpdaterForProject/main/Map006.json
 <End of Version>
 
 <Version: 1.02>
-/data/Map006.json https://raw.githubusercontent.com/Mrxdaunknown/UpdaterForProject/main/Map006.json
+Game_boxed https://raw.githubusercontent.com/Mrxdaunknown/UpdaterForProject/main/Map006.json
 <End of Version>
 
 <Version: 1.03>
-/data/Map006.json https://raw.githubusercontent.com/Mrxdaunknown/UpdaterForProject/main/Map006.json
-/img/pictures/Unbenannt.png https://i.imgur.com/s7sGVI2.png
+Game_boxed https://raw.githubusercontent.com/Mrxdaunknown/UpdaterForProject/main/Map006.json
+Game_boxed https://i.imgur.com/s7sGVI2.png
 <End of Version>
